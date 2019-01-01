@@ -9,7 +9,7 @@ inputs:
   - name: fake-ci
 
 run:
-  path: fake-ci/task.sh
+  path: fake-ci/task/task.sh
   args:
     - hello world
 
